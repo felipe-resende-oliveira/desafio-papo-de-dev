@@ -90,6 +90,7 @@
       height: 100%;
       color: white;
       justify-content: center;
+      cursor: pointer;
     }
     svg {
         margin: 15px 20px;
